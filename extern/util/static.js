@@ -408,6 +408,8 @@ EntryStatic.getAllBlocks = function() {
                 'get_microphone_volume',
                 'video_title',
                 'check_webcam',
+                'draw_webcam',
+                'set_camera_option',
             ],
         },
         {
