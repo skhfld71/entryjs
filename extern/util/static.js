@@ -410,6 +410,7 @@ EntryStatic.getAllBlocks = function() {
                 'check_webcam',
                 'draw_webcam',
                 'set_camera_option',
+                'flip_camera',
             ],
         },
         {
